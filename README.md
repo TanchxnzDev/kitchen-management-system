@@ -9,8 +9,8 @@ A web-based kitchen management system designed to streamline order handling betw
 - Role-based access control (Admin / Kitchen Staff)
 
 ## Tech Stack
-- Frontend: HTML, CSS, Bootstrap, JavaScript
-- Backend: Express / PHP
+- Frontend: HTML, CSS, Bootstrap, JavaScript VueJS
+- Backend: Express / PHP / JSON
 - Database: Firebase
 
 ## My Role
